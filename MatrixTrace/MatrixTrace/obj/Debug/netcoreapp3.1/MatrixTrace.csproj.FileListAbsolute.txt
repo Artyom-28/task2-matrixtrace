@@ -1,0 +1,12 @@
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\bin\Debug\netcoreapp3.1\MatrixTrace.exe
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\bin\Debug\netcoreapp3.1\MatrixTrace.deps.json
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\bin\Debug\netcoreapp3.1\MatrixTrace.runtimeconfig.json
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\bin\Debug\netcoreapp3.1\MatrixTrace.runtimeconfig.dev.json
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\bin\Debug\netcoreapp3.1\MatrixTrace.dll
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\bin\Debug\netcoreapp3.1\MatrixTrace.pdb
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\obj\Debug\netcoreapp3.1\MatrixTrace.AssemblyInfoInputs.cache
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\obj\Debug\netcoreapp3.1\MatrixTrace.AssemblyInfo.cs
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\obj\Debug\netcoreapp3.1\MatrixTrace.csproj.CoreCompileInputs.cache
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\obj\Debug\netcoreapp3.1\MatrixTrace.dll
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\obj\Debug\netcoreapp3.1\MatrixTrace.pdb
+C:\FoxMinded\task2-matrixtrace\MatrixTrace\MatrixTrace\obj\Debug\netcoreapp3.1\MatrixTrace.genruntimeconfig.cache
